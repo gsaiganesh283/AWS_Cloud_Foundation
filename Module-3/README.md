@@ -60,7 +60,7 @@
 - Amazon Elastic File System (Amazon EFS)
 - Amazon S3 Glacier
 ### Compute Servie Category
-- Amazon Elastic Cloud Computing (Amazon EC2)
+- Amazon Elastic Compute Cloud (Amazon EC2)
 - Amazon EC2 Auto-Scaling
 - Amazon Elastic Container Service (Amazon ECS)
 - Amazon EC2 Container Registry
