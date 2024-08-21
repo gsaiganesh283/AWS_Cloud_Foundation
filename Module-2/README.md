@@ -71,7 +71,7 @@ Total Cost of Owership (TCO) is the financial estimate to help identify direct a
 
 ### AWS pricing Calculator
 
-Use the AWS pricing Calculator to:
+**Use the AWS pricing Calculator to:**
 
 - Estimate monthly costs
 
@@ -107,5 +107,52 @@ Use the AWS pricing Calculator to:
 
 #### Step-4: Test restrictions
 
+### Accessing AWS Organizations
 
+- AWS Management console
 
+- AWS command line interface (AWS CLF) tools
+
+- Software development kits (SDKs)
+
+- HTTPs Query application programming interfaces
+
+### AWS Billing and Cost Management
+
+#### Technical Support
+
+**Provide unique combination of tools and expertise:**
+
+- AWS Support
+
+- AWS support plans
+
+**Support is provided for:**
+
+- Experimenting with AWS
+
+- Producation use of AWS
+
+- Business-critical use of AWS
+
+**Pro-active guidance:**
+
+- Technical Account Manager (TAM)
+
+**Best practices:**
+
+- AWS Trusted Advisor
+
+**Account assistance:**
+
+- AWS support concierge
+
+#### AWS Support offers four support plans
+
+**Basic Support** - Resource Centre Access, Service Health Dashboard, Product FAQs, Discussion Forums, and Supprot for Health checks.
+
+**Developer Support** - Support for early development on AWS
+
+**Business Support** - Customers that run producation workloads.
+
+**Enterpise Support** - Customers that run business and mission-critical workloads.
